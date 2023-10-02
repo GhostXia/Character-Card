@@ -10,4 +10,4 @@ Partners please notify me via Email.
 
 Picture:
 
-<img decoding="async" src="https://github.com/GhostXia/Character-Card/assets/33112711/08a18b4f-293d-4a11-b915-d43bd6fb48ff" width="50%">
+<img decoding="async" src="https://github.com/GhostXia/Character-Card/assets/33112711/08a18b4f-293d-4a11-b915-d43bd6fb48ff" width="30%">
