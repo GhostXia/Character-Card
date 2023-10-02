@@ -1,5 +1,6 @@
 # Lin
-**For [Crimson Future](https://rentry.org/CrimsonFuture) Build**  
+**For [Crimson Future](https://rentry.org/CrimsonFuture) Build**
+
 Character Build: Completed
 
 Current progress: Under review
