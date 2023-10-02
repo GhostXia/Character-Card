@@ -1,6 +1,6 @@
 # Lin
 
-Character Card: V1.0➡V1.1
+[Character Card](https://github.com/GhostXia/Character-Card/blob/main/Crimson%20Future/Lin/Lin-CharacterCard.json): V1.0➡V1.1
 
 Lorebook: Full version has been released
 
