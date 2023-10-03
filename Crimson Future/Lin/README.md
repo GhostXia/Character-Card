@@ -7,7 +7,8 @@ Character Build: Completed
 
 Current progress: Under Review
 
-[Character Card](https://github.com/GhostXia/Character-Card/blob/main/Crimson%20Future/Lin/Lin-CharacterCard.json): V1.0➡V1.1
+[Character Card](https://github.com/GhostXia/Character-Card/blob/main/Crimson%20Future/Lin/Lin-CharacterCard.json): V1.1➡V1.1.1  
+Patch Notes: Added a setting that gives some users who want a Happy End a chance to extend Lin's life.
 
 Lorebook: Full version has been released
 
