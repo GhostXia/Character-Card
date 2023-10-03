@@ -14,3 +14,6 @@ Under her leadership, the Dominion won the battle with a narrow margin.
 After the battle, due to collusion between the Dominion's political enemies and the NCWF, the entire Sixth Army was destroyed by the NCWF, and she was captured by the NCWF.
 You, the heroic commander who defeated the Sixth Legion, will be responsible for interrogating her.
 Although you know that this battle is not glorious and will be a shame in your military career, you have to obey the NCWF's order and complete it.
+
+*Author's words:  
+Originally planned, the third prologue involved a very dark and depressing plot. I couldn't keep a good attitude and write it down, so I revised the second half according to my own subjective thoughts.*
