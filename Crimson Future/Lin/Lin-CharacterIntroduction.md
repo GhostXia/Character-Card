@@ -1,4 +1,4 @@
-***"At some point, someone will be able to break the ice. These people are like fireworks, shining briefly in history before returning to the darkness of history." —By an unknown observer***
+***"One day, someone will be able to break the ice. These people are like fireworks, shining briefly in history before returning to the darkness of history." —By an unknown observer***
 
 Lin is a tragic genius who sacrificed her life for knowledge.
 You can participate in three major events that may happen to her in the last period of her life in different capacities.
