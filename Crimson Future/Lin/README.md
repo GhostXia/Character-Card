@@ -1,6 +1,8 @@
 # Lin
 **For [Crimson Future](https://rentry.org/CrimsonFuture) Build**
 
+Character Introduction:A tragic genius who sacrificed her life.
+
 Character Build: Completed
 
 Current progress: Under review
