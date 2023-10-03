@@ -1,11 +1,11 @@
 # Lin
 **For [Crimson Future](https://rentry.org/CrimsonFuture) Build**
 
-Character Introduction:A tragic genius who sacrificed her life.
+Character Introduction: A tragic genius who sacrificed her life.
 
 Character Build: Completed
 
-Current progress: Under review
+Current progress: Under Review
 
 [Character Card](https://github.com/GhostXia/Character-Card/blob/main/Crimson%20Future/Lin/Lin-CharacterCard.json): V1.0➡V1.1
 
