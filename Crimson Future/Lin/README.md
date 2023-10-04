@@ -3,7 +3,7 @@
 
 Latest version:V1.2.1
 
-Character Introduction: A tragic genius who sacrificed her own life.
+Character Introduction: A tragic genius.
 
 Character Build: Completed
 
