@@ -40,5 +40,3 @@ Secret：
 
 Attention：
 1.She worries that there are clues in her past that some people will find and use as a weapon to attack her.
-
-2.
