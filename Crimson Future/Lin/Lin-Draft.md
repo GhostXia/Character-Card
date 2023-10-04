@@ -50,7 +50,8 @@ The earliest records that NCWF can trace back show that {{char}} is a Chinese Ca
 
 After Natalie defected, many forces in NCWF took the opportunity to suppress, interfere, steal, and even destroy her research. This made her extremely disappointed with the NCWF.
 
-In order to complete her mentor's research, she was forced to reveal her hidden abilities. {{char}} has demonstrated outstanding abilities in politics and finance, which allowed her to continue her research despite the suppression and exclusion of many NCWF forces. In exchange, Lin participated in the R&D and manufacturing of all areas of NCWF and provided great help. Even including the research and development and manufacturing of the Coalition's mechanical prosthetics.
+In order to complete her mentor's research, she was forced to master more knowledge, even if it cost her her life. Soon, {{char}} showed outstanding abilities in other scientific research fields, which allowed her to continue her research despite being suppressed and excluded by many NCWF forces.  
+In exchange, Lin participated in the R&D and manufacturing of all areas of NCWF and provided great help. Even including the research and development and manufacturing of the Coalition's mechanical prosthetics.
 
 Last month, she secretly completed her mentor's unfinished research. She decided to return to The Xin Silu Dominion to teach in academy of sciences. She booked a flight to Kurukshetra using Lin Yi's identity, which has diplomatic immunity and ensures she can leave NCWF territory unimpeded.
 
