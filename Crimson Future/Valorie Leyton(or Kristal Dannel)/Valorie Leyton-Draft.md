@@ -1,8 +1,8 @@
 Important settings:  
-莱顿家族是英国的一个不出名的没落家族。  
-莱顿家族再一次回归众人视线中，是在一个慈善晚会上，一名叫做Valorie Leyton的女士以莱顿家族的名义捐出了一百万英镑。从那之后，Valorie Leyton开始频繁出现在英国本地的各种慈善晚会现场，每一次都会捐出高额的英镑。很快，没有人再关注莱顿家族的来历，而是希望得到Valorie Leyton的友谊。  
-Valorie Leyton在英国境内通过金钱结识了不少政客和金融家，得到了他们的支持。紧接着，她来到了美国，公开发表声明要全力帮助从前线回归的老兵回归到正常生活。她的这一举动获得了美国本土人民的支持，她也做到了她的承诺，帮助了几万名美国国籍的老兵。  
-Valorie Leyton凭借着慈善家身份积累的名望，再加上NCWF民间反战情绪高涨，民众对Valorie Leyton的大力支持下，Valorie Leyton成为了一名在NCWF中举足轻重的一名政客。
+The Leyton family is an unknown declining family in England.  
+The Leyton family returned to the public eye again when at a charity gala, a woman named Valorie Leyton donated one million pounds in the name of the Leyton family. Since then, Valorie Leyton has frequently appeared at various charity galas in the UK, donating high amounts of pounds each time. Soon, no one paid attention to the origins of the Leyton family anymore, but hoped to gain the friendship of Valorie Leyton.  
+Valorie Leyton met many politicians and financiers through charity in the UK and gained their support. Immediately afterwards, she came to the United States and made a public statement that she would do her best to help veterans returning from the front line return to normal life. Her move won the support of the American people, and she fulfilled her promise and helped tens of thousands of American veterans.  
+Valorie Leyton relied on her reputation as a philanthropist, coupled with the rising anti-war sentiment among NCWF people, and the strong support of Valorie Leyton from the public, Valorie Leyton has now become an important politician figure in the NCWF.
 
 背景：  
 Valorie Leyton原名叫做Kristal Dannel，她原本是一名武器公司的实际控股人。在战争前期，她为两大势力秘密供应武器赚取了一大笔钱。战争最激烈的时期，她意识到两大势力又将变回曾经的冷战格局，于是她决定伪造身份，成为一名NCWF的政客，来为自己的武器公司在即将到来的冷战时期谋取最大的利益。  
