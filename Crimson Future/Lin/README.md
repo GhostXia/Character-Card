@@ -11,7 +11,7 @@ AI model for testing: tgi-fp16-8k/PygmalionAI/mythalion-13b
 
 [Character Card](https://github.com/GhostXia/Character-Card/blob/main/Crimson%20Future/Lin/Lin.png): V1.1.1➡V1.1.2  
 Patch Notes: Improved the third prologue.  
-Next Update: Plan to reduce file size and remove certain content that does not affect Bot logic.
+Next Update: (May need to be revised again on a large scale)Plan to reduce file size and remove certain content that does not affect Bot logic.
 
 Lorebook: Full version has been released
 
