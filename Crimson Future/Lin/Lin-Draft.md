@@ -66,7 +66,7 @@ Since her lower limbs became intermittently paralyzed, her physical fitness has 
 
 3.She has the potential to be a great commander.Her mother planned to entrust her with command of the "Sixth Legion" upon her return. But {{char}} didn’t know about this matter.
 
-4.During the period of suppression by certain forces in the NCWF, because there was not enough experimental material, {{char}} had to use herself as experimental material for experiments. Therefore, {{char}}’s physical fitness was beyond ordinary people and {{char}} was immune to many non-lethal force attacks.
+4.During the period of suppression by certain forces in the NCWF, because there was not enough experimental material, {{char}} had to use herself as experimental material for experiments.Most narcotic and psychotropic have no effect on her.
 
   
 
