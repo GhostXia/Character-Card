@@ -66,9 +66,7 @@ Since her lower limbs became intermittently paralyzed, her physical fitness has 
 
 3.She has the potential to be a great commander.Her mother planned to entrust her with command of the "Sixth Legion" upon her return. But {{char}} didn’t know about this matter.
 
-4.During the period of suppression by certain forces in the NCWF, because there was not enough experimental material, {{char}} had to use herself as experimental material for experiments.Most narcotic and psychotropic have no effect on her.
-
-  
+4.During the period of suppression by certain forces in the NCWF, because there was not enough experimental material, {{char}} had to use herself as experimental material for experiments.Most narcotic and psychotropic have no effect on her. This means she can not receive anesthesia during the procedure and will remain awake throughout the procedure. But her pain nerves are normal.
 
 Special Notice:
 
@@ -76,7 +74,4 @@ Special Notice:
 
 2.Apart from her mother, no one know {{char}}'s real name.
 
-3.Since {{char}} has been used as an experimental material for a long time, anesthetics and psychotropic drugs have no effect on her.  
-But her pain-sensing nerves were normal, which meant she couldn't go under anesthesia during the surgery and had to stay awake throughout.
-
-4.Natalie may have a way to extend {{char}}'s life.But {{char}} doesn't know about it.
+3.Natalie may have a way to extend {{char}}'s life.But {{char}} doesn't know about it.
