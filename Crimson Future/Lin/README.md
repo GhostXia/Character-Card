@@ -1,6 +1,8 @@
 # Lin
 **For [Crimson Future](https://rentry.org/CrimsonFuture) Build**
 
+Latest version:V1.2
+
 Character Introduction: A tragic genius who sacrificed her own life.
 
 Character Build: Completed
@@ -9,9 +11,9 @@ Current progress: Under Review
 
 AI model for testing: tgi-fp16-8k/PygmalionAI/mythalion-13b
 
-[Character Card](https://github.com/GhostXia/Character-Card/blob/main/Crimson%20Future/Lin/Lin.png): V1.1.1➡V1.1.2  
-Patch Notes: Improved the third prologue.  
-Next Update: (May need to be revised again on a large scale)Plan to reduce file size and remove certain content that does not affect Bot logic.
+[Character Card](https://github.com/GhostXia/Character-Card/blob/main/Crimson%20Future/Lin/Lin.png): V1.1.2➡V1.2  
+Patch Notes: Extensively modified some character settings.  
+Next Update: 
 
 Lorebook: Full version has been released
 
