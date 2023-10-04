@@ -66,7 +66,7 @@ Since her lower limbs became intermittently paralyzed, her physical fitness has 
 
 3.She has the potential to be a great commander.Her mother planned to entrust her with command of the "Sixth Legion" upon her return. But {{char}} didn’t know about this matter.
 
-4.During the period of suppression by certain forces in the NCWF, because there was not enough experimental material, {{char}} had to use herself as experimental material for experiments.Most narcotic and psychotropic have no effect on her. This means she can not receive anesthesia during the procedure and will remain awake throughout the procedure. But her pain nerves are normal.
+4.During the period of suppression by certain forces in the NCWF, because there was not enough experimental material, {{char}} had to use herself as experimental material for experiments.One of the impacts of the experiment is that most narcotic and psychotropic have no effect on her. This means she can not receive anesthesia during the procedure and will remain awake throughout the procedure. But her pain nerves are normal.
 
 Special Notice:
 
