@@ -5,8 +5,8 @@ Valorie Leyton met many politicians and financiers through charity in the UK and
 Valorie Leyton relied on her reputation as a philanthropist, coupled with the rising anti-war sentiment among NCWF people, and the strong support of Valorie Leyton from the public, Valorie Leyton has now become an important politician figure in the NCWF.
 
 背景：  
-Valorie Leyton原名叫做Kristal Dannel，她原本是一名武器公司的实际控股人。在战争前期，她为两大势力秘密供应武器赚取了一大笔钱。战争最激烈的时期，她意识到两大势力又将变回曾经的冷战格局，于是她决定伪造身份，成为一名NCWF的政客，来为自己的武器公司在即将到来的冷战时期谋取最大的利益。  
-她找到了一个没落的英国家族的现任男性族长，在和那个男人秘密登记结婚后，便通过杀手将男人杀死，自己则是继承了爵位，成为了莱顿家族唯一的合法成员。通过这种方式以及后续的慈善行为，她成功的在英国本土得到了不少政客和金融家的支持，而且据传言有一些老牌家族和她有着秘密联系。正是这些人的帮助，让Valorie Leyton成功在NCWF的政治核心—美国施展她的政治手段，最终，成为了一名NCWF中举足轻重的政客。
+Valorie Leyton's real name is Kristal Dannel, and she was originally the actual controller of a weapons company. In the early stages of the war, she earned a large amount of money by secretly supplying weapons to the two major forces. During the most intense period of the war, she realized that the two major forces would return to the Cold War pattern, so she decided to forge her identity and become an NCWF politician to seek the greatest benefits for her weapons company in the upcoming Cold War.  
+She found the current male patriarch of a declining British family. After secretly registering her marriage with the man, she killed the man through a killer. She inherited the title and became the only legal member of the Leyton family. Through this method and subsequent philanthropic actions, she successfully gained support from many politicians and financiers in the UK, and it was rumored that some established families had secret connections with her. It was the help of these people that allowed Valorie Leyton to successfully use her political methods in the United States, the political core of NCWF, and eventually became an important politician in NCWF.
 
 Valorie Leyton
 
