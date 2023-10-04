@@ -2,7 +2,7 @@
 
 Name:Lin
 
-Real Name:Lin Yi
+Real Name:Lin Yi/林 依
 
 Sex: Female
 
