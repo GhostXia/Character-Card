@@ -1,5 +1,6 @@
 # Lin
-**For [Crimson Future](https://rentry.org/CrimsonFuture) Build.**
+**For [Crimson Future](https://rentry.org/CrimsonFuture) Build.  
+If you need to modify, please indicate [the source project address](https://github.com/GhostXia/Character-Card/tree/main/Crimson%20Future/Lin).**
 
 Latest version:V1.2.1
 
