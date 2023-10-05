@@ -1,5 +1,6 @@
 # Lin
-**For [Crimson Future](https://rentry.org/CrimsonFuture) Build**
+**For [Crimson Future](https://rentry.org/CrimsonFuture) Build.  
+[Crimson Future Team](https://rentry.org/CrimsonFuture) has the right to use and modify**
 
 Latest version:V1.2.1
 
