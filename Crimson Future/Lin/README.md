@@ -13,7 +13,7 @@ AI model for testing: tgi-fp16-8k/PygmalionAI/mythalion-13b
 
 [Character Card](https://github.com/GhostXia/Character-Card/blob/main/Crimson%20Future/Lin/Lin.png): V1.2➡V1.2.1  
 Patch Notes: Fix some logic issues.  
-Next Update: Fix logic issues.
+Next Update: Fix logic issues. Fix Third Message logic.
 
 Lorebook: Full version has been released
 
