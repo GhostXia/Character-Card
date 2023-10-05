@@ -17,4 +17,4 @@ Although you know that this battle is not glorious and will be a shame in your m
 
 *Author's words:  
 It is recommended to use the first and second prologues.  
-Originally planned, the third prologue involved a very dark and depressing plot. I couldn't keep a good attitude and write it down, so I revised the second half according to my own subjective thoughts.*
+Originally planned, the third prologue involved a very dark and depressing plot. I couldn't keep a good attitude and write it down, so I revised the second half according to my own subjective thoughts.However, I still do not recommend using this opening statement and I will find time to revise it again.*
