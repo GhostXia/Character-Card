@@ -1,5 +1,5 @@
 # Lin
-**For [Crimson Future](https://rentry.org/CrimsonFuture) Build.  
+**For [Crimson Future](https://rentry.org/CrimsonFuture) Build. Thanks for their help.  
 If you need to modify, please indicate [the source project address](https://github.com/GhostXia/Character-Card/tree/main/Crimson%20Future/Lin).**
 
 **Compatibility Test: 1.SillyTavern➡️100% 2.RisuAI➡️0%**
