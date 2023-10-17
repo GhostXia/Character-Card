@@ -4,7 +4,7 @@ If you need to modify, please indicate [the source project address](https://gith
 
 **Compatibility Test: 1.SillyTavern➡️100% 2.RisuAI➡️0%**
 
-Latest version:V1.2.1
+Latest version:V1.2.2
 
 Character Introduction: A tragic genius
 
@@ -14,8 +14,8 @@ Current progress: Under Review
 
 AI model for testing: tgi-fp16-8k/PygmalionAI/mythalion-13b
 
-[Character Card](https://github.com/GhostXia/Character-Card/blob/main/Crimson%20Future/Lin/Lin.png): V1.2➡V1.2.1  
-Patch Notes: Fix some logic issues.  
+[Character Card](https://github.com/GhostXia/Character-Card/blob/main/Crimson%20Future/Lin/Lin.png): V1.2.1➡V1.2.2  
+Patch Notes: Fix some grammar issues.  
 Next Update: **1.Research RisuAI** 2.Fix logic issues. 3.Fix Third Message logic.
 
 Lorebook: Full version has been released
