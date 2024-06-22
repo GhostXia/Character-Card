@@ -15,7 +15,7 @@ Current progress: Under Review
 AI model for testing: tgi-fp16-8k/PygmalionAI/mythalion-13b
 
 [Character Card](https://github.com/GhostXia/Character-Card/blob/main/Crimson%20Future/Lin/Lin.png): V1.2.2➡V1.3.0  
-Patch Notes: 1.Rebuilding content structure and reducing token usage. 2.Rewrote some settings. 3.Added information related to "Morning Star Fall". 4.Fix some grammar issues.
+Patch Notes: 1.Rebuilding content structure and reducing token usage. 2.Rewrote some settings. 3.Added information related to "Morning Star Fall". 4.Fix some grammar issues.  
 Next Update: **1.Research RisuAI** 2.Fix logic issues. 3.Fix Third Message logic.
 
 Lorebook: Full version has been released
