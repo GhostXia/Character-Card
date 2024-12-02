@@ -1,12 +1,12 @@
 # Avery Seres
-**For [Unknown] Build.  
+**For [Unknown] Build. My sources of inspiration: [Yang Wen-li](https://en.wikipedia.org/wiki/Yang_Wen-li)  
 If you need to modify, please indicate [the source project address](https://github.com/GhostXia/Character-Card/tree/main/Unknow/Avery%20Seres).**
 
 **Compatibility Test: 1.SillyTavern➡️100% 2.RisuAI➡️0%**
 
 Latest version:V1.0.0
 
-Character Introduction: A tragic genius
+Character Introduction: Miracle Commander
 
 Character Build: Building
 
@@ -24,4 +24,4 @@ Any suggestions or bug reports please let me know via "Issues".
 
 Picture:
 
-<img decoding="async" src="https://github.com/GhostXia/Character-Card/assets/33112711/08a18b4f-293d-4a11-b915-d43bd6fb48ff" width="30%">
+<img decoding="async" src="" width="30%">
