@@ -6,7 +6,7 @@ If you need to modify, please indicate [the source project address](https://gith
 
 Latest version:V1.0.0
 
-Character Introduction: A tragic genius
+Character Introduction: Miracle Commander
 
 Character Build: Building
 
