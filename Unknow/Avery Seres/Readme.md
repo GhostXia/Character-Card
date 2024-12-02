@@ -1,5 +1,5 @@
 # Avery Seres
-**For [Unknown] Build.  
+**For [Unknown] Build. My sources of inspiration: [Yang Wen-li](https://en.wikipedia.org/wiki/Yang_Wen-li)
 If you need to modify, please indicate [the source project address](https://github.com/GhostXia/Character-Card/tree/main/Unknow/Avery%20Seres).**
 
 **Compatibility Test: 1.SillyTavern➡️100% 2.RisuAI➡️0%**
